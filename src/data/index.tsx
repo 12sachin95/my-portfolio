@@ -165,6 +165,7 @@ export const projectsData = [
     technologies: ["React js", "Graphql", "expressjs", "MongoDB", "chart.js"],
     category: "mobile",
     github: "https://github.com/12sachin95/expense-tracker/",
+    demo: "https://expense-tracker-hbvi.onrender.com/expense-tracker/",
   },
   {
     title: "TODO CLI App",
