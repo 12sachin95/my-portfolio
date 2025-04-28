@@ -71,14 +71,16 @@ const Projects = () => {
                     >
                       <Github className="h-5 w-5" />
                     </a>
-                    {/* <a 
-                      href={project.demo} 
-                      target="_blank" 
-                      rel="noopener noreferrer"
-                      className="p-3 bg-white rounded-full text-gray-900 hover:text-blue-500 transition-colors duration-300"
-                    >
-                      <ExternalLink className="h-5 w-5" />
-                    </a> */}
+                    {project.demo && (
+                      <a
+                        href={project.demo}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="p-3 bg-white rounded-full text-gray-900 hover:text-blue-500 transition-colors duration-300"
+                      >
+                        <ExternalLink className="h-5 w-5" />
+                      </a>
+                    )}
                   </div>
                 </div>
               </div>
