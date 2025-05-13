@@ -6,13 +6,16 @@ const Footer = () => {
   const socialLinks = [
     {
       icon: <Github className="h-5 w-5" />,
-      url: "https://github.com/12sachin95",
+      url: "https://github.com/mr-sachin-rathore",
     },
     {
       icon: <Linkedin className="h-5 w-5" />,
       url: "https://in.linkedin.com/in/sachin-rathore-642400113",
     },
-    { icon: <Mail className="h-5 w-5" />, url: "mailto:12sachin95@gmail.com" },
+    {
+      icon: <Mail className="h-5 w-5" />,
+      url: "mailto:mr-sachin-rathore@gmail.com",
+    },
   ];
 
   return (

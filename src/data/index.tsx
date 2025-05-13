@@ -154,7 +154,7 @@ export const projectsData = [
       "WebSocket",
     ],
     category: "web",
-    github: "https://github.com/12sachin95/eshop-app",
+    github: "https://github.com/mr-sachin-rathore/eshop-app",
   },
   {
     title: "Expense Tracker",
@@ -164,7 +164,7 @@ export const projectsData = [
       "https://images.pexels.com/photos/20500268/pexels-photo-20500268/free-photo-of-calculator.jpeg",
     technologies: ["React js", "Graphql", "expressjs", "MongoDB", "chart.js"],
     category: "mobile",
-    github: "https://github.com/12sachin95/expense-tracker/",
+    github: "https://github.com/mr-sachin-rathore/expense-tracker/",
     demo: "https://expense-tracker-hbvi.onrender.com/expense-tracker/",
   },
   {
@@ -175,7 +175,7 @@ export const projectsData = [
       "https://images.pexels.com/photos/6956183/pexels-photo-6956183.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
     technologies: ["GO", "Gin", "JWT", "React", "MongoDB"],
     category: "web",
-    github: "https://github.com/12sachin95/go-todo-cli-app/",
+    github: "https://github.com/mr-sachin-rathore/go-todo-cli-app/",
   },
   {
     title: "Movie app",
@@ -185,6 +185,6 @@ export const projectsData = [
       "https://plus.unsplash.com/premium_photo-1709384733835-1628e7ea2aa3?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8bW92aWUlMjBhcHBzfGVufDB8fDB8fHww",
     technologies: ["React js", "expressjs", "MongoDB"],
     category: "web",
-    github: "https://github.com/12sachin95/movie-app",
+    github: "https://github.com/mr-sachin-rathore/movie-app",
   },
 ];

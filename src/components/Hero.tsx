@@ -76,7 +76,7 @@ const Hero = () => {
 
         <div className="flex space-x-4 mb-12">
           <a
-            href="https://github.com/12sachin95"
+            href="https://github.com/mr-sachin-rathore"
             target="_blank"
             rel="noopener noreferrer"
             className="p-3 text-gray-700 hover:text-blue-500 dark:text-gray-300 dark:hover:text-blue-400 transition-colors duration-300"
@@ -92,7 +92,7 @@ const Hero = () => {
             <Linkedin className="h-6 w-6" />
           </a>
           <a
-            href="mailto:12sachin95@gmail.com"
+            href="mailto:mr-sachin-rathore@gmail.com"
             className="p-3 text-gray-700 hover:text-blue-500 dark:text-gray-300 dark:hover:text-blue-400 transition-colors duration-300"
           >
             <Mail className="h-6 w-6" />
