@@ -4,6 +4,7 @@ This is my personal portfolio website built with React and deployed using GitHub
 
 🔗 Live Demo  
 https://mr-sachin-rathore.github.io/my-portfolio/
+
 https://your-username.github.io/your-repo-name
 
 Replace your-username and your-repo-name with your actual GitHub username and repository name.
@@ -76,12 +77,12 @@ For Vite apps, the build directory may be dist instead of build:
 If using Vite, edit vite.config.js to include the base path:
 
 ```js
-import { defineConfig } from 'vite';
-import react from '@vitejs/plugin-react';
+import { defineConfig } from "vite";
+import react from "@vitejs/plugin-react";
 
 export default defineConfig({
   plugins: [react()],
-  base: '/your-repo-name/',
+  base: "/your-repo-name/",
 });
 ```
 
